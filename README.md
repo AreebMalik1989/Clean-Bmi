@@ -1,2 +1,2 @@
 # Clean-Bmi
-Clean architecture based Bmi calculator implemented in Python
+Clean/Hexagonal architecture based Bmi calculator implemented in Python
